@@ -1,3 +1,2 @@
 # CanUBuyAnything?
-this is a very very easy game. the inspiration is comming from My experence.
-Whatever you down you can dot by anything. 
+this is a very very easy game. The inspiration is comming from My experence of trying to buy some food In the morning at 6 am, I am try many many times, but whatever you done you can dot buy anything. 
